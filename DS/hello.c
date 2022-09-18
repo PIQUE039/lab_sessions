@@ -3,6 +3,7 @@
 void main()
 {
 int a[10], i, n, search,flag=0;
+printf("HELLLLLLLLLLLLLLLLLLLLLLO\n");
 printf("Enter the size of the array: ");
 scanf_s("%d", &n);
 printf("\nEnter the elements in the array\n");
